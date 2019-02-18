@@ -92,7 +92,7 @@ git config --global user.name "Fred.Bloggs"
 git config --global user.email "fred.bloggs@apn.co.nz"
 ```
 
-# Creating a new Repo
+# Transfering to a new Repo
 
 ```bash
 #Create Repository
